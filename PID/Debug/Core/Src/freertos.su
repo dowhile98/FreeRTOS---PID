@@ -1,0 +1,8 @@
+../Core/Src/freertos.c:106:6:vApplicationGetIdleTaskMemory	24	static
+../Core/Src/freertos.c:119:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/freertos.c:133:6:MX_FREERTOS_Init	128	static,ignoring_inline_asm
+../Core/Src/freertos.c:202:6:SensorTask	48	static
+../Core/Src/freertos.c:239:6:PID_Task	40	static
+../Core/Src/freertos.c:283:6:LabViewRX_Task	48	static
+../Core/Src/freertos.c:357:6:GetDataMotorDC	16	static
+../Core/Src/freertos.c:366:6:HAL_UART_RxCpltCallback	16	static
